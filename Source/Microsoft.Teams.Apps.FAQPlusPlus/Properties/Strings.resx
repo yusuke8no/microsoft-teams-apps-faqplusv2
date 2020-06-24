@@ -250,7 +250,7 @@ No botão abaixo, você pode descobrir o que posso fazer por você.</value>
     <comment>Text that suggest users to fill mandatory fields.</comment>
   </data>
   <data name="ResultsFeedbackText" xml:space="preserve">
-    <value>Resultado do feedback:</value>
+    <value>Deixe seu feedback:</value>
     <comment>This text is used as title for results feedback card.</comment>
   </data>
   <data name="FeedbackAlertText" xml:space="preserve">
