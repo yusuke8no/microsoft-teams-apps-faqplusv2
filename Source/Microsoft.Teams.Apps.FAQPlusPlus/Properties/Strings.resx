@@ -142,7 +142,7 @@
     <comment>Suggests the user to ask question.</comment>
   </data>
   <data name="ShareFeedbackButtonText" xml:space="preserve">
-    <value>Share feedback</value>
+    <value>Deixe sua opinião</value>
     <comment>Button text for share feedback show card in QnA response card.</comment>
   </data>
   <data name="DescriptionText" xml:space="preserve">
@@ -158,7 +158,7 @@
     <comment>Status one of the available fact set in notification cards.</comment>
   </data>
   <data name="AskAnExpertButtonText" xml:space="preserve">
-    <value>Ask an expert</value>
+    <value>Acione um técnico</value>
     <comment>Action button which invokes ask an expert show card.</comment>
   </data>
   <data name="ThankYouTextContent" xml:space="preserve">
