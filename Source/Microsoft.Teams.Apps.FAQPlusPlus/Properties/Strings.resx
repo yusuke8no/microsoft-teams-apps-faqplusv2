@@ -170,7 +170,7 @@
     <comment>Ability to chat directly with end user from SME channel.</comment>
   </data>
   <data name="NotificationCardContent" xml:space="preserve">
-    <value>Enviei sua pergunta para minha equipe de analistas. Eles eles são ótimos e responderão diretamente a você com uma mensagem de bate-papo.</value>
+    <value>Enviei sua pergunta para minha equipe de analistas. Eles são ótimos e responderão diretamente a você com uma mensagem de bate-papo.</value>
     <comment>Confirmation message to the user upon asking question to the expert.</comment>
   </data>
   <data name="TeamChatHeaderText" xml:space="preserve">
