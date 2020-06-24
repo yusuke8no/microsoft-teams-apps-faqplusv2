@@ -318,7 +318,7 @@ No botão abaixo, você pode descobrir o que posso fazer por você.</value>
     <comment>The {0} is the placeholder for the title that the user had provided when asking an expert.</comment>
   </data>
   <data name="AssignToMeActionChoiceTitle" xml:space="preserve">
-    <value>Atribuida para mim</value>
+    <value>Atribuir para mim</value>
     <comment>The dropdown choice for "Assign to me" for the SME ticket status is being updated</comment>
   </data>
   <data name="CloseActionChoiceTitle" xml:space="preserve">
