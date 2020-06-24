@@ -270,7 +270,7 @@ No botão abaixo, você pode descobrir o que posso fazer por você.</value>
     <comment>Share feedback display text: text sent to the bot when share feedback button is clicked.</comment>
   </data>
   <data name="SMEAssignedStatus" xml:space="preserve">
-    <value>Esta solicitação está sendo tratado. Responsável: {0}.</value>
+    <value>Esta solicitação está sendo tratada. Responsável: {0}.</value>
     <comment>Message posted to the thread when the ticket is assigned. {0} = name of SME who assigned the request.</comment>
   </data>
   <data name="SMEClosedStatus" xml:space="preserve">
@@ -286,11 +286,11 @@ No botão abaixo, você pode descobrir o que posso fazer por você.</value>
     <comment>Notification text sent to the user who opened a ticket, when the ticket is assigned to an expert.</comment>
   </data>
   <data name="ClosedTicketUserNotification" xml:space="preserve">
-    <value>Esta solicitação foi encerrada. Pergunte ao analista novamente se você ainda precisar de mais ajuda.</value>
+    <value>Sua solicitação foi encerrada. Chame o analista novamente se você ainda precisar de mais ajuda.</value>
     <comment>Notification text sent to the user who opened a ticket, when the ticket is closed.</comment>
   </data>
   <data name="ReopenedTicketUserNotification" xml:space="preserve">
-    <value>Sua solicitação foi aberta novamente. Um analista enviará uma mensagem de bate-papo.</value>
+    <value>O analista está com dificuldades para tratar sua solicitação. Em breve, um outro analista lhe enviará uma mensagem de bate-papo.</value>
     <comment>Notification text sent to the user who opened a ticket, when the ticket is reopened.</comment>
   </data>
   <data name="GoToOriginalThreadButtonText" xml:space="preserve">
